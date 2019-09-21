@@ -1,0 +1,35 @@
+SPECIFICATIONS
+-------------------------------------------------------------------------------------------------------------------------------------------
+  1. CORE TYPE
+  2. 1:1 TURNS RATIO
+  3. NO LOAD PRIMARY VOLTAGE 230V
+  4. CURRENT DENSITY ACCORDING TO IS CODE 1.5 A/sq. mm
+  5. MAXIMUM MAGNETIC FLUX DENSITY ACCORDING TO IS CODE 1.6 T
+-------------------------------------------------------------------------------------------------------------------------------------------
+  
+CALCULATION OF WIRE DIAMETER
+  
+   Parameter required to find diameter of the wire is the Cross sectional area. ( A )
+   
+   A = 3.14*d*d/4
+   
+   A can be found from Current ( I ) and Current Density ( J ) Relation
+   
+   J = I * A
+   
+   J is known from ISCODE
+   
+   I can be found from Power and Voltage relation.
+   
+   P = I * V
+   
+   where P (in kVA) and V (in Volts) is Known
+   _____________________________________________
+   |Hence,                                      |
+   |                                            |
+   |     I =                                    |
+   |                                            |
+   |     A =                                    |
+   |                                            |
+   |     d =                                    |
+   |____________________________________________|
