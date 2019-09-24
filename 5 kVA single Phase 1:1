@@ -50,16 +50,17 @@ In this casee number of turns for both primary and secondery will be similar as 
 ------------------------------------------------------------------------------------------------------------------------------------------                   
 CALCULATION OF ADDITIONAL NUMBER OF TURNS FOR 5% TAPPING
 ------------------------------------------------------------------------------------------------------------------------------------------
-                   
-                   
-                   
-                   
-                   
-                   
+ 
+ This 5% tapping is provided to counter the effect of variable no load primary voltage.Since it can vary upto 5% both up and down. Multiply
+ 0.05 with number of turns to get additional turns which needs to be added with previous number.
+ 
+ Turns Additional : 0.05 x Number of Turns    
+ 
 -----------------------------------------------------------------------------------------------------------------------------------------                   
 AXIAL AND RADIAL LENGTH OF WINDING   
 -----------------------------------------------------------------------------------------------------------------------------------------
-  
+Axial Length  : (Diameter of Wire  + Anamel coating  + Insulation paper  + Minimum Gap) x Number of Turns
+Radial Length :(Diameter of Wire  + Anamel coating  + Insulation paper  + Minimum Gap) x Number of Layers
   
   
   
