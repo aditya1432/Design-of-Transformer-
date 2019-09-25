@@ -61,6 +61,16 @@ AXIAL AND RADIAL LENGTH OF WINDING
 -----------------------------------------------------------------------------------------------------------------------------------------
 Axial Length  : (Diameter of Wire  + Anamel coating  + Insulation paper  + Minimum Gap) x Number of Turns
 Radial Length :(Diameter of Wire  + Anamel coating  + Insulation paper  + Minimum Gap) x Number of Layers
+
+------------------------------------------------------------------------------------------------------------------------------------------
+CORE PARAMETERS ACCORDING TO SPECIFICATION
+------------------------------------------------------------------------------------------------------------------------------------------
+Voltage Per Turn (Et) :
+Gross Core Area(Ag) : (from specification) Can be calculated using EMF equation. (Note: Ag in sq cm)
+Et : 4.44 * f * Bm * Ag * 0.97 * 10^(-4)
+
+f : 50 Hz
+Bm : 1.6 T
   
   
   
